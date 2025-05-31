@@ -63,14 +63,7 @@ Advanced queries using CTEs and window functions:
 2. Run the queries one by one after connecting to the sample music store database
 3. Analyze the output for insights as described in each question
 
----
 
-## 📌 Credits
-
-Inspired by SQL practice projects and real-world business analysis use cases.  
-Database schema based on the classic [Chinook sample database](https://github.com/lerocha/chinook-database).
-
----
 
 ## 📎 Related Skills
 
